@@ -1,0 +1,125 @@
+body {
+    background-color: #f4f4f4;
+    color: #555555 ;
+    margin: 0% auto;
+    padding: 0% auto;
+}
+
+#bar {
+	float: right;
+    margin: 0 0 25px 0;
+}
+
+#bar li {
+	display: inline;
+	margin: 0 0 0 20px;
+}
+
+.down{
+    background-color: #dee2e6;
+    color: #ebebeb;
+}
+
+.topimage{
+    background-image: url(../images/topimage.jpg);
+    background-size: 110%;
+    border: 10px solid ;
+    border-color:#6c757d;
+    height: 400px ;
+    margin: 20px auto;
+    width: 95% ;
+    background-position:top;
+}
+
+.one p {
+    text-align:center;
+    background-color: #6c757d;
+    width: 95%;
+    padding: 10px 0;
+    margin: 10px auto;
+}
+.mid{
+    width: 95%;
+    margin: auto;
+}
+.two{
+    background-color: #6c757d;
+    margin: 10px auto;
+    padding: 10px 0;
+}
+.work {
+    margin: 15px  ;
+    width: 95%;
+    border-bottom: #f4f4f4 4px solid;
+}
+
+.inImageA{
+width: 80%;
+margin: auto;
+}
+
+.IA{
+    margin: 10px;
+}
+.IB{
+    margin: 10px;
+}
+
+.inImageB{
+    width: 80%;
+    margin: 10px auto;
+    }
+.IC{
+    margin: 10px;
+}
+.ID{
+    margin: 10px;
+}
+.three  {
+    background-color: #dee2e6;
+    color: #555555;
+   
+}
+.three h1 {
+    margin: 10px auto;
+    padding: 10px 0;
+    color: #555555;
+}
+
+.three p {
+    margin: 10px auto;
+    padding: 5px 0;
+    color: #7e7e7e;
+}
+
+#link li{
+    text-align:center;
+    margin: 20px 0 0 5px;
+    padding: 10px;
+    width: 200px;
+    background-color: #555555;
+    list-style-type: none;
+}
+
+#link a{
+    list-style-type: none;
+    color: #f4f4f4;
+    padding: 10px 0 ;
+    text-decoration: none;
+}
+
+.buttom{
+    margin: 50px 0;
+}
+.footer {
+    margin: 10px 0;
+    background-color: #555555;
+}
+
+.footer p {
+    color: #f4f4f4;
+    text-align:center;
+    font-size: 8pt;
+    padding: 10px;
+    margin: 0;
+}
